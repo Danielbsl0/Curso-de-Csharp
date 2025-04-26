@@ -1,4 +1,5 @@
-﻿namespace pro007;
+﻿//Calculadora Simples
+namespace pro007;
 
 public class Program
 {
